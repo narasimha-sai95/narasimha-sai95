@@ -9,7 +9,7 @@
   <a href="https://x.com/narasimhasai95" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="narasimhasai.nimmagadda@gmail.com" target="_blank">
+  <a href="mailto:narasimhasai.nimmagadda@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/users/725665424313679883" target="_blank">
@@ -49,12 +49,14 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=iam-narasimhasai&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="250" alt="streak graph"  />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iam-narasimhasai&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="240" alt="streak graph"  />
 </div>
 
 ###
