@@ -1,68 +1,62 @@
-<h2 align="left">Hi 👋! My name is Narasimha Sai!</h2>
+<h1 align="center">hey there 👋</h1>
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/narasimhasai/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/narasimhasai95" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:narasimhasai.nimmagadda@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/725665424313679883" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">Glad to see you here!</h3>
-
-###
-
-<p align="left">I'm a Software Engineer at LTIMindtree, just starting my journey in AWS and DevOps. I recently completed the AWS Solutions Architect - Associate certification and I'm excited to learn more in these areas.</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="60" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="60" alt="kubernetes logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=iam-narasimhasai&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="240" alt="streak graph"  />
-</div>
+<p align="left">I'm Narasimha Sai<br><br>- 🔭 I’m working as Software Engineer @LTIMindtree<br>- 📚 I'm currently learning Aws and Devops</p>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=iam-narasimhasai.iam-narasimhasai&left_color=darkcyan&right_color=springgreen"  />
+  <a href="https://www.linkedin.com/in/narasimhasai/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/narasimhasai95" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/725665424313679883" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iam-narasimhasai.iam-narasimhasai&left_text=visitors"  />
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+</div>
+
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=iam-narasimhasai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
