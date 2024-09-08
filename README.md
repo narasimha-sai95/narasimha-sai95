@@ -55,7 +55,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=iam-narasimhasai&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5" height="240" alt="streak graph"  />
 </div>
 
